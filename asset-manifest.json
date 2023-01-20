@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://priyathaisini.github.io/crampete-website/static/css/main.073c9b0a.css",
+    "main.js": "https://priyathaisini.github.io/crampete-website/static/js/main.417a1f42.js",
+    "static/js/787.77ac5a16.chunk.js": "https://priyathaisini.github.io/crampete-website/static/js/787.77ac5a16.chunk.js",
+    "index.html": "https://priyathaisini.github.io/crampete-website/index.html",
+    "main.073c9b0a.css.map": "https://priyathaisini.github.io/crampete-website/static/css/main.073c9b0a.css.map",
+    "main.417a1f42.js.map": "https://priyathaisini.github.io/crampete-website/static/js/main.417a1f42.js.map",
+    "787.77ac5a16.chunk.js.map": "https://priyathaisini.github.io/crampete-website/static/js/787.77ac5a16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.417a1f42.js"
+  ]
+}
